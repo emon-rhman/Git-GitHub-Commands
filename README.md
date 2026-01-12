@@ -1,3 +1,3 @@
 # Git-GitHub-Commands
 
-This is the commands to use Git & GitHub in proper way. 
+This is the commands to use Git & GitHub in proper method 
